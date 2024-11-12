@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/eduardsjesikens/GitProjects/Sensei_CPP/Sensei_CPP/Source/Sensei_CPP/Sensei_CPP.Build.cs",
+		"/Users/eduardsjesikens/GitProjects/Sensei_CPP/Sensei_CPP/Source/Sensei_CPP.Target.cs",
+		"/Users/eduardsjesikens/GitProjects/Sensei_CPP/Sensei_CPP/Source/Sensei_CPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

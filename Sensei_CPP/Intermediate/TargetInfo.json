@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Sensei_CPP",
+			"Path": "../Source/Sensei_CPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Sensei_CPPEditor",
+			"Path": "../Source/Sensei_CPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
